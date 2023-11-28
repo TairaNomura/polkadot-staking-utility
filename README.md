@@ -1,4 +1,4 @@
-# polkadot-staking-utility  
+# polkadot-staking-utility   
 The polkadot-staking-utility script streamlines staking interactions on the Polkadot network, providing a convenient interface for users to manage their staking activities.
 
 Leveraging the Substrate API, this script allows users to check their staking status, nominate validators, and even unbond their DOT tokens. It serves as a practical tool for DOT holders looking to engage in staking without the need for a full-fledged staking application.
